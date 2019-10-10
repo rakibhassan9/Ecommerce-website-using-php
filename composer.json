@@ -1,0 +1,17 @@
+{
+    "name" : "ecommerce-pro",
+    "description" : "",
+    "license": "ISC",
+    "authors": [
+        {
+            "name": "Rakib",
+            "email": "rakibkst9@gmail.com",
+
+        }
+    ],
+
+
+    "require": {
+        "phpmailer/phpmailer": "^6.1"
+    }
+}
