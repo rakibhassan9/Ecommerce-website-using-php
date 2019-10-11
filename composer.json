@@ -5,13 +5,14 @@
     "authors": [
         {
             "name": "Rakib",
-            "email": "rakibkst9@gmail.com",
+            "email": "rakibkst9@gmail.com"
 
         }
     ],
 
 
     "require": {
-        "phpmailer/phpmailer": "^6.1"
+        "phpmailer/phpmailer": "^6.1",
+        "phroute/phroute": "^2.1"
     }
 }
